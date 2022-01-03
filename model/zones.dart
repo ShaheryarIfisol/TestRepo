@@ -2120,5 +2120,10 @@ List zonesList=[
     "id": 424,
     "countryCode": "ZW",
     "timeZone": "Africa/Harare"
+  },
+  {
+    "id": 424,
+    "countryCode": "ZW",
+    "timeZone": "Africa/Harare"
   }
 ];
